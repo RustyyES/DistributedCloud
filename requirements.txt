@@ -1,0 +1,10 @@
+paramiko
+docker
+psutil
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+pyyaml
+pytest
